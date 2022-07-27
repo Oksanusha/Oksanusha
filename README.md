@@ -2,7 +2,7 @@
 -  I’m interested in data science
 -  I’m currently learning ML
 -  I’m looking to collaborate with someone who love DS
-- How to reach me: o421188@gmail.com
+- How to reach me: oykhoroshun@gmail.com
 
 <!---
 Oksanusha/Oksanusha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
