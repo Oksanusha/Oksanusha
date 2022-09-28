@@ -1,7 +1,6 @@
 -  Hi, I’m @Oksanusha
 -  I’m interested in data science
 -  I’m currently learning ML
--  I’m looking to collaborate with someone who love DS
 - How to reach me: oykhoroshun@gmail.com
 
 <!---
