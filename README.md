@@ -1,12 +1,18 @@
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.gif" width="100"/>
-</div>
+
 
 <h1 id="header" align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="600" height="400"/>
+</div>
+
 
 ### :woman_technologist: About Me :
 
