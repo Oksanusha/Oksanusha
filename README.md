@@ -1,6 +1,3 @@
-
-
-
 <h1 id="header" align="center">
   hey there :wave:
 </h1>
@@ -30,6 +27,7 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" **alt="GitLab" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" **alt="Anaconda" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
 </div>
 
     
