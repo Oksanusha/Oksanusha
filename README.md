@@ -5,15 +5,14 @@
   hey there :wave:
 </h1>
 
----
 
 ### :woman_technologist: About Me :
 
 I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I’m working as a Data Analyst and contributing to data storytelling.
+- :telescope: I am working as a Data Analyst and contributing to data storytelling.
 
-- :seedling: Exploring ML
+- :seedling: Exploring ML.
 
 - :zap: In my free time, I learn statistics and read tech articles.
 
