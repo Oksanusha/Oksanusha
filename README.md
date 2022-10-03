@@ -3,7 +3,7 @@
 </h1>
 
 
-### :woman_technologist: About Me :
+### About Me :
 
 I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
